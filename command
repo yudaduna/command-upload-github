@@ -5,8 +5,8 @@ git init
 git add.
 git status ( for check status )
 
-git config --global user.name : " "
-git config --global user.email : " "
+git config --global user.name " "
+git config --global user.email " "
 
 git commit -m "initial commit"
 git remote add origin https://github.com/../..
