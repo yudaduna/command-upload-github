@@ -2,7 +2,7 @@ COMMAND LINE UPLOAD FILE TO github.com
 ========================================
 
 git init
-git add.
+git add .
 git status ( for check status )
 
 git config --global user.name " "
